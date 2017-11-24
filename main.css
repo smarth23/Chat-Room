@@ -1,0 +1,28 @@
+body{
+	background-color:#1e5799;
+
+}
+
+.ADD_button{
+font-size: 30px;
+width: 60px;
+height:60px;
+float: right;
+background-color: white;
+border:0px solid #1e5799;
+color:#1e5799;
+border-radius: 50px;
+cursor: pointer;
+}
+
+.ADD_button:hover{
+  font-weight: bold;
+  font-size:32px;
+ 
+}
+
+iframe {
+	margin: 20px;
+	margin-left: 5px;
+	padding: 0px;
+}
